@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="Black">
+    <option name="sdkName" value="C:\Users\inmog\AppData\Local\Programs\Python\Python312\python.exe" />
+  </component>
+>>>>>>> a65b62e9b4e0782fecbd4fba3db2bc89b4526f98
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
